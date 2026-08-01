@@ -327,7 +327,7 @@ Production AI engineering inside a healthcare microservices ecosystem, spanning 
 
 <div align="center">
 
-## ◈ Contribution Snake
+## ◈ Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shashwat-911/Shashwat-911/output/github-contribution-grid-snake-dark.svg" />
