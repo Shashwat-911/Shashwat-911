@@ -291,41 +291,7 @@ Production AI engineering inside a healthcare microservices ecosystem, spanning 
 
 <div align="center">
 
-## ◈ GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shashwat-911&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwat-911&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&text_color=C4B5FD&langs_count=8" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashwat-911&theme=midnight-purple&hide_border=true&background=0D0B1A&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=A78BFA&currStreakNum=C4B5FD&sideNums=C4B5FD&dates=6B7280" height="180"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shashwat-911&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashwat-911&bg_color=0D0B1A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4F46E5&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
 
 ## ◈ Contributions
 
