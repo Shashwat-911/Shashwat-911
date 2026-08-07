@@ -280,10 +280,10 @@ Production AI engineering inside a healthcare microservices ecosystem, spanning 
 
 ## ◈ Coding Profiles
 
-[![LeetCode]([https://img.shields.io/badge/LeetCode-Shashwat--911-FFA116](https://leetcode.com/u/_shashwat_yadav/)?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Shashwat--911-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Shashwat--911-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Shashwat--911-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Shashwat--911-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_shashwat_yadav/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Shashwat--911-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/yadavshashwat975)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Shashwat--911-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/shashwatyadav101)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Shashwat--911-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/susii)
 
 </div>
 
